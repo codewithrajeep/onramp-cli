@@ -2,5 +2,8 @@
 name = "onramp-cli"
 version = "0.1.0"
 edition = "2024"
+description = "Set up a working programming environment with one command"
+license = "MIT"
+repository = "https://github.com/codewithrajeep/onramp-cli"
 
 [dependencies]
