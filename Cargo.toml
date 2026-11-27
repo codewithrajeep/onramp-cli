@@ -7,3 +7,5 @@ license = "MIT"
 repository = "https://github.com/codewithrajeep/onramp-cli"
 
 [dependencies]
+serde = { version = "1.0.229", features = ["derive"] }
+toml = "1.2.3"
